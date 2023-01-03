@@ -30,7 +30,6 @@ An open source video watching app that allows users to stream and view videos in
 - [x] Intuitive user interface
 - [x] Open source
 - [x] Free
-- [x] No ads
 
 ## Contributing
 
