@@ -31,3 +31,10 @@ An open source video watching app that allows users to stream and view videos in
 - [x] Open source
 - [x] Free
 - [x] No ads
+
+## Contributing
+
+We welcome contributions to Lefine! If you have an idea for a new feature or have found a bug, please open an issue in the repository. If you would like to contribute code, please fork the repository and submit a pull request.
+
+## License
+Lefine is licensed under the <ins>MIT License</ins>.
