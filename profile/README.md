@@ -1,12 +1,33 @@
-## Hi there 👋
+<div align="center">
+<br/>
+<a href="https://lefine.netlify.app/">
+<img src="./assets/logo.png"
+height="128"
+alt="Lefine logo"
+/>
+</a>
+<p><b><h1>Lefine youtube iframe simple</h1></b></p>
+<p><h4>``Join the open source revolution with Lefine``</h4></p>
 
-<!--
+[//]: # ("Experience the power of open source with Lefine")
 
-**Here are some ideas to get you started:**
+[//]: # ("Lefine: The ultimate, open source video experience")
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[//]: # ("Stream with freedom using Lefine")
+
+[//]: # ("Lefine: Where innovation meets open source video")
+
+[//]: # ("Join the open source revolution with Lefine")
+</div>
+
+## What is Lefine?
+An open source video watching app that allows users to stream and view videos in a variety of formats.
+
+## Features
+- [x] Stream video from a variety of sources
+- [x] Support for multiple video formats
+- [x] Customizable playback settings
+- [x] Intuitive user interface
+- [x] Open source
+- [x] Free
+- [x] No ads
