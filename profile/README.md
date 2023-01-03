@@ -7,7 +7,7 @@ alt="Lefine logo"
 style="border-radius:10px;"
 />
 </a>
-<p><b><h1>Lefine youtube iframe simple</h1></b></p>
+<p><b><h1>Lefine</h1></b></p>
 <p><h4>``Join the open source revolution with Lefine``</h4></p>
 
 [//]: # ("Experience the power of open source with Lefine")
