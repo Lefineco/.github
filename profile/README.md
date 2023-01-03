@@ -4,6 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/121732132?s=200&v=4"
 height="128"
 alt="Lefine logo"
+style="border-radius:10px;"
 />
 </a>
 <p><b><h1>Lefine youtube iframe simple</h1></b></p>
