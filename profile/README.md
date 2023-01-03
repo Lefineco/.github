@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
 <a href="https://lefine.netlify.app/">
-<img src="./assets/logo.png"
+<img src="https://avatars.githubusercontent.com/u/121732132?s=200&v=4"
 height="128"
 alt="Lefine logo"
 />
